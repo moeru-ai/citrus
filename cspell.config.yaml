@@ -1,0 +1,20 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - cffi
+  - cuda
+  - cudatoolkit
+  - direnv
+  - kokoro
+  - libsndfile
+  - libz
+  - moeru
+  - nixpkgs
+  - numpy
+  - pkgs
+  - stdenv
+  - venv
+ignoreWords: []
+import: []
